@@ -1,9 +1,11 @@
 ##Intro
+
 - Welcome back!. So, I was telling you'll what I was doing in coding!.
 - I was learning Python 3 and was learning the print statement.
 - Today, I learnt something new!.
 
 ##Python
+
 - Today, I learnt variables and types.
 - So, a variable is like a thing containing anything. Ex a cup containg something like food, water etc.
 - Variables are created or defined to be used somewhere like in the print statement,i.e, 
