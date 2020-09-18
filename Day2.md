@@ -27,7 +27,7 @@ mystring = ("Strings are fun!")
 - The code above prints out what is defined in the variable mystring,i.e, Strings are fun!.
 -> Remember- Strings should always be put quotes(single or double).
 
-- Python supports 2 types of numbers, integers and floating point numbers. It also supports complex numbers(which I will not be talking about.
+- Python supports 2 types of numbers, integers and floating point numbers. It also supports complex numbers(which I will not be talking about).
 - To define an integer, we can use the following syntax-
 
 myint = 26  
