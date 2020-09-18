@@ -11,7 +11,8 @@
 - Variables are created or defined to be used somewhere like in the print statement,i.e, 
 
 cup("Variables are amazing!.")
-                      print(cup)
+
+  print(cup)
 
 - In the above code, I've created a variable and used it in the print statement. It prints out what is being defined in the variable.
 
@@ -20,7 +21,8 @@ cup("Variables are amazing!.")
 - We can define a string using the following syntax-
 
 mystring = ("Strings are fun!")
-                  print(mystring)
+ 
+ print(mystring)
 
 - The code above prints out what is defined in the variable mystring,i.e, Strings are fun!.
 -> Remember- Strings should always be put quotes(single or double).
@@ -36,9 +38,11 @@ myint = 26
 - To define a floating point number, we can use the following syntax-
 
 myfloat = 7.0
+
  print(myfloat)
  
 myfloat = float(7)
-      print(myfloat)
+      
+ print(myfloat)
 
 - We can use both the ways to print a floating point number.
